@@ -7,9 +7,9 @@ The dataset is a log file with ~600.000 rows. It includes information on various
 
 ## Contents
 - Data Analysis:
-  - I created separate CSV files from the original log file using Bash.
+  - I created separate CSV files for the events extracted from the original log file using Bash because they had a different structure.
   - Next, I cleaned the data using Python scripts within a Jupyter Notebook.
-  - Following the data cleaning process, I utilized SQL to query the dataset and extract valuable insights.
+  - Following the data cleaning process, I used SQL to query the dataset and extract valuable insights. I found that in this particular case SQL is better suited for segmentation purposes.
 - Presentation: A slide deck summarizing key findings, strategies, and recommendations. I generated visualizations using Looker Studio.
 - README: Information about the project, dataset, analysis, and instructions for replicating the analysis.
 
