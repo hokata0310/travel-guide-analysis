@@ -3,7 +3,7 @@
 This repository contains data analysis and insights for an imaginary travel blog owned by a world traveler and solo entrepreneur. The analysis is based on a dataset reflecting user behavior, marketing efforts, and product sales on the blog.
 
 ## Overview
-The dataset is a log file with ~600.000 rows. It includes information on various events such as reads, subscriptions, and purchases, segmented by country, source, and topic. The primary goal is to derive actionable insights to optimize marketing strategies, content creation, and revenue generation for Dilan's travel blog.
+The dataset is a log file with ~600.000 rows. It includes information on various events such as reads, subscriptions, and purchases, segmented by country, source, and topic. The primary goal is to derive actionable insights to optimize marketing strategies, content creation, and revenue generation for the owner.
 
 ## Contents
 - Data Analysis:
